@@ -9,6 +9,10 @@
   * 主要就是使用AutoLayout和xib文件结合的形式，显示使用xib绘制出界面视图，然后添加约束，可以适配不同的手机。
   * tableview的cell布局使用单独的xib文件，同时对cell中空间的layer的相关属性进行设置。
 
+* 页面布局实现
+  * 主要就是使用AutoLayout和xib文件结合的形式，显示使用xib绘制出界面视图，然后添加约束，可以适配不同的手机。
+  * tableview的cell布局使用单独的xib文件，同时对cell中空间的layer的相关属性进行设置。
+  *
 
 * 数据请求和数据解析
   *数据请求主要就是使用ios 8自带的网络请求函数进行请求，这里自己封装了网络请求的库，HttpClientRequest.h和HttpClientRequest.m文件，实现了代理和block返回数据的两种方式。在ios 9之后网络请求方式发生了变化，有些函数可能已经被替代了。
