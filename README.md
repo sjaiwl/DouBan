@@ -4,9 +4,10 @@
 ![image](https://github.com/sjaiwl/image_folder/blob/master/DouBan/豆瓣流程图.pdf)
 #主界面视图
 <div class='row'>
-        <img src='https://github.com/sjaiwl/image_folder/blob/master/MedicalApplication/mainPage.png' width="250px" style='border: #f1f1f1 solid 1px'/>
-        <img src='https://github.com/sjaiwl/image_folder/blob/master/MedicalApplication/filePage.png' width="250px" style='border: #f1f1f1 solid 1px'/>
-        <img src='https://github.com/sjaiwl/image_folder/blob/master/MedicalApplication/minePage.png' width="250px" style='border: #f1f1f1 solid 1px'/>
+        <img src='https://github.com/sjaiwl/image_folder/blob/master/DouBan/活动列表.png' width="250px" style='border: #f1f1f1 solid 1px'/>
+        <img src='https://github.com/sjaiwl/image_folder/blob/master/DouBan/电影列表(collection).png' width="250px" style='border: #f1f1f1 solid 1px'/>
+        <img src='https://github.com/sjaiwl/image_folder/blob/master/DouBan/影院列表.png' width="250px" style='border: #f1f1f1 solid 1px'/>
+        <img src='https://github.com/sjaiwl/image_folder/blob/master/DouBan/用户页面.png' width="250px" style='border: #f1f1f1 solid 1px'/>
     </div>
     
 #主要模块实现及相关技术
