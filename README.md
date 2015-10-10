@@ -3,7 +3,12 @@
 # 基本流程图
 ![image](https://github.com/sjaiwl/image_folder/blob/master/DouBan/豆瓣流程图.pdf)
 #主界面视图
-
+<div class='row'>
+        <img src='https://github.com/sjaiwl/image_folder/blob/master/MedicalApplication/mainPage.png' width="250px" style='border: #f1f1f1 solid 1px'/>
+        <img src='https://github.com/sjaiwl/image_folder/blob/master/MedicalApplication/filePage.png' width="250px" style='border: #f1f1f1 solid 1px'/>
+        <img src='https://github.com/sjaiwl/image_folder/blob/master/MedicalApplication/minePage.png' width="250px" style='border: #f1f1f1 solid 1px'/>
+    </div>
+    
 #主要模块实现及相关技术
 * 页面布局实现
   * 主要就是使用AutoLayout和xib文件结合的形式，显示使用xib绘制出界面视图，然后添加约束，可以适配不同的手机。
