@@ -1,7 +1,7 @@
 # DouBan
 仿豆瓣电影推荐功能ios客户端，完成豆瓣项目中基本的电影，影院推荐和收藏功能。 此项目中，主要知识点包括：页面布局实现，数据解析，异步网络请求，数据库操作，图片异步加载，tableview相关操作。
 # 基本流程图
-
+![image](https://github.com/sjaiwl/image_folder/blob/master/DouBan/豆瓣流程图.pdf)
 #主界面视图
 
 #主要模块实现及相关技术
