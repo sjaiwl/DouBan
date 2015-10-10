@@ -11,6 +11,7 @@
 
 
 * 数据请求和数据解析
-   *数据请求主要就是使用ios 8自带的网络请求函数进行请求，这里自己封装了网络请求的库，HttpClientRequest.h和HttpClientRequest.m文件，实现了代理和block返回数据的两种方式。在ios 9之后网络请求方式发生了变化，有些函数可能已经被替代了。
-   *数据解析主要就是解析json数据，也是利用NSJSONSerialization中的相关函数进行解析，这里需要特别注意，使用model来解析数据时，一定要在model类中要重写- (void)setValue:(id)value forUndefinedKey:(NSString *)key方法，这个方法需要特别注意。
+  *数据请求主要就是使用ios 8自带的网络请求函数进行请求，这里自己封装了网络请求的库，HttpClientRequest.h和HttpClientRequest.m文件，实现了代理和block返回数据的两种方式。在ios 9之后网络请求方式发生了变化，有些函数可能已经被替代了。
+  *数据解析主要就是解析json数据，也是利用NSJSONSerialization中的相关函数进行解析，这里需要特别注意，使用model来解析数据时，一定要在model类中要重写- (void)setValue:(id)value forUndefinedKey:(NSString *)key方法，这个方法需要特别注意。
+
 #总结
