@@ -8,6 +8,9 @@
         <img src='https://github.com/sjaiwl/image_folder/blob/master/DouBan/电影列表(collection).png' width="250px" style='border: #f1f1f1 solid 1px'/>
         <img src='https://github.com/sjaiwl/image_folder/blob/master/DouBan/影院列表.png' width="250px" style='border: #f1f1f1 solid 1px'/>
         <img src='https://github.com/sjaiwl/image_folder/blob/master/DouBan/用户页面.png' width="250px" style='border: #f1f1f1 solid 1px'/>
+        <img src='https://github.com/sjaiwl/image_folder/blob/master/DouBan/电影列表(list).png' width="250px" style='border: #f1f1f1 solid 1px'/>
+        <img src='https://github.com/sjaiwl/image_folder/blob/master/DouBan/活动详情.png' width="250px" style='border: #f1f1f1 solid 1px'/>
+        <img src='https://github.com/sjaiwl/image_folder/blob/master/DouBan/电影详情.png' width="250px" style='border: #f1f1f1 solid 1px'/>
     </div>
     
 #主要模块实现及相关技术
